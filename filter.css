@@ -1,7 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 body {
   font-family: "Open Sans", sans-serif;
+  background-color: rgb(162, 182, 201);
 }
 
+.search {
+  position: absolute;
+  top: 10px;
+  right: 5px;
+
+  padding: 10px;
+  width: 300px;
+  border: 1px solid rgba(128, 128, 128, 0.685);
+  border-radius: 3px;
+  font: 1.5em sans-serif;
+  text-align: center;
+}
+@media screen and (max-width: 678px) {
+  .search {
+    top: 10px;
+  }
+}
 .container {
   display: flex;
   padding: 50px;
@@ -9,15 +31,6 @@ body {
 
 .leftMenu {
   flex: 1;
-}
-
-.search {
-  padding: 10px;
-  width: 300px;
-  border: 1px solid rgba(128, 128, 128, 0.685);
-  border-radius: 3px;
-  font: 1.5em sans-serif;
-  text-align: center;
 }
 
 h1 {
@@ -40,7 +53,7 @@ h1 {
 }
 
 .content {
-  flex: 4;
+  flex: 3;
 }
 
 .products {
@@ -53,7 +66,7 @@ h1 {
   width: 350px;
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 10px;
   align-items: center;
 }
 

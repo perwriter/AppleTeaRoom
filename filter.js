@@ -2,329 +2,329 @@ const data = [
   {
     id: 1,
     name: "Ndazi",
-    img: "https://m.media-amazon.com/images/I/71e04Q53xlL._AC_UY879_.jpg",
+    img: "ndazi.jpeg",
     price: 40,
     cat: "snacks",
   },
   {
     id: 2,
     name: "Samosa",
-    img: "https://example.com/samosa.jpg",
+    img: "samosa_special.jpeg",
     price: 100,
     cat: "snacks",
   },
   {
     id: 3,
     name: "Samosa Special",
-    img: "https://example.com/samosa_special.jpg",
+    img: "samosa_special.jpeg",
     price: 210,
     cat: "snacks",
   },
   {
     id: 4,
     name: "Kebab",
-    img: "https://example.com/kebab.jpg",
+    img: "kebab.jpeg",
     price: 110,
     cat: "snacks",
   },
   {
     id: 5,
     name: "Kebab Special",
-    img: "https://example.com/kebab_special.jpg",
+    img: "kebab_special.jpeg",
     price: 220,
     cat: "snacks",
   },
   {
     id: 6,
     name: "Sausage",
-    img: "https://example.com/sausage.jpg",
+    img: "sausage.jpeg",
     price: 60,
     cat: "snacks",
   },
   {
     id: 7,
     name: "Sausage Special",
-    img: "https://example.com/sausage_special.jpg",
+    img: "sausage_special.jpeg",
     price: 170,
     cat: "snacks",
   },
   {
     id: 8,
     name: "Fried Egg",
-    img: "https://example.com/fried_egg.jpg",
+    img: "fried_egg.jpeg",
     price: 50,
     cat: "snacks",
   },
   {
     id: 9,
     name: "Fried Egg Special",
-    img: "https://example.com/fried_egg_special.jpg",
+    img: "fried_egg_special.jpeg",
     price: 160,
     cat: "snacks",
   },
   {
     id: 10,
     name: "Toast Kavu",
-    img: "https://example.com/toast_kavu.jpg",
+    img: "toast_kavu.jpeg",
     price: 15,
     cat: "snacks",
   },
   {
     id: 11,
     name: "Toast Yai",
-    img: "https://example.com/toast_yai.jpg",
+    img: "toast_yai.jpeg",
     price: 75,
     cat: "snacks",
   },
   {
     id: 12,
     name: "Toast Siagi",
-    img: "https://example.com/toast_siagi.jpg",
+    img: "toast_siagi.jpeg",
     price: 20,
     cat: "snacks",
   },
   {
     id: 13,
     name: "Toast Mixed",
-    img: "https://example.com/toast_mixed.jpg",
+    img: "toast_mixed.jpeg",
     price: 25,
     cat: "snacks",
   },
   {
     id: 14,
     name: "Bandika Siagi",
-    img: "https://example.com/bandika_siagi.jpg",
+    img: "bandika_siagi.jpeg",
     price: 40,
     cat: "snacks",
   },
   {
     id: 15,
     name: "Bandika Mixed",
-    img: "https://example.com/bandika_mixed.jpg",
+    img: "bandika_mixed.jpeg",
     price: 45,
     cat: "snacks",
   },
   {
     id: 16,
     name: "Spanish Omelette",
-    img: "https://example.com/spanish_omelette.jpg",
+    img: "spanish_omelette.jpeg",
     price: 120,
     cat: "snacks",
   },
   {
     id: 17,
     name: "Spanish Special",
-    img: "https://example.com/spanish_special.jpg",
+    img: "spanish_special.jpeg",
     price: 230,
     cat: "snacks",
   },
   {
     id: 18,
     name: "Tea",
-    img: "https://example.com/tea.jpg",
+    img: "tea.jpeg",
     price: 50,
     cat: "Hot Beverage",
   },
   {
     id: 19,
     name: "Black Tea",
-    img: "https://example.com/black_tea.jpg",
+    img: "black_tea.jpeg",
     price: 50,
     cat: "Hot Beverage",
   },
   {
     id: 20,
     name: "Ndubia",
-    img: "https://example.com/ndubia.jpg",
+    img: "ndubia.jpeg",
     price: 80,
     cat: "Hot Beverage",
   },
   {
     id: 21,
     name: "Masai Tea",
-    img: "https://example.com/masai_tea.jpg",
+    img: "masai_tea.jpeg",
     price: 80,
     cat: "Hot Beverage",
   },
   {
     id: 22,
     name: "Lemon Tea",
-    img: "https://example.com/lemon_tea.jpg",
+    img: "lemon_tea.jpeg",
     price: 80,
     cat: "Hot Beverage",
   },
   {
     id: 23,
     name: "Coffee",
-    img: "https://example.com/coffee.jpg",
+    img: "coffee.jpeg",
     price: 80,
     cat: "Hot Beverage",
   },
   {
     id: 24,
     name: "Black Coffee",
-    img: "https://example.com/black_coffee.jpg",
+    img: "black_coffee.jpeg",
     price: 80,
     cat: "Hot Beverage",
   },
   {
     id: 25,
     name: "Drinking Chocolate",
-    img: "https://example.com/drinking_chocolate.jpg",
+    img: "drinking_chocolate.jpeg",
     price: 80,
     cat: "Hot Beverage",
   },
   {
     id: 26,
     name: "Milo",
-    img: "https://example.com/milo.jpg",
+    img: "milo.jpeg",
     price: 80,
     cat: "Hot Beverage",
   },
   {
     id: 27,
     name: "Hot Milk",
-    img: "https://example.com/hot_milk.jpg",
+    img: "hot_milk.jpeg",
     price: 100,
     cat: "Hot Beverage",
   },
   {
     id: 28,
     name: "Hot Water + Lemon",
-    img: "https://example.com/hot_water_lemon.jpg",
+    img: "hot_water_lemon.jpeg",
     price: 20,
     cat: "Hot Beverage",
   },
   {
     id: 30,
     name: "Soda 300ml",
-    img: "https://example.com/soda_300ml.jpg",
+    img: "soda_300ml.jpeg",
     price: 60,
     cat: "Cold Drinks",
   },
   {
     id: 31,
     name: "Soda 500ml",
-    img: "https://example.com/soda_500ml.jpg",
+    img: "soda_500ml.jpeg",
     price: 70,
     cat: "Cold Drinks",
   },
   {
     id: 32,
     name: "Afia",
-    img: "https://example.com/afia.jpg",
+    img: "afia.jpeg",
     price: 80,
     cat: "Cold Drinks",
   },
   {
     id: 33,
     name: "Minute Maid",
-    img: "https://example.com/minute_maid.jpg",
+    img: "minute_maid.jpeg",
     price: 80,
     cat: "Cold Drinks",
   },
   {
     id: 34,
     name: "Mineral Water 1/2 L",
-    img: "https://example.com/mineral_water_half_liter.jpg",
+    img: "mineral_water_half_liter.jpeg",
     price: 50,
     cat: "Cold Drinks",
   },
   {
     id: 35,
     name: "Mineral Water 1L",
-    img: "https://example.com/mineral_water_1_liter.jpg",
+    img: "mineral_water_1_liter.jpeg",
     price: 100,
     cat: "Cold Drinks",
   },
   {
     id: 36,
     name: "Chips",
-    img: "https://example.com/chips.jpg",
+    img: "chips.jpeg",
     price: 150,
     cat: "Meals",
   },
   {
     id: 37,
     name: "Masala Chips",
-    img: "https://example.com/masala_chips.jpg",
+    img: "masala_chips.jpeg",
     price: 190,
     cat: "Meals",
   },
   {
     id: 38,
     name: "Masala Chips + Samosa + Soda",
-    img: "https://example.com/masala_chips_samosa_soda.jpg",
+    img: "masala_chips_samosa_soda.jpeg",
     price: 350,
     cat: "Meals",
   },
   {
     id: 39,
     name: "Chips + Sausage",
-    img: "https://example.com/chips_sausage.jpg",
+    img: "chips_sausage.jpeg",
     price: 210,
     cat: "Meals",
   },
   {
     id: 40,
     name: "Chips + Samosa",
-    img: "https://example.com/chips_samosa.jpg",
+    img: "chips_samosa.jpeg",
     price: 250,
     cat: "Meals",
   },
   {
     id: 41,
     name: "Chips Kebab",
-    img: "https://example.com/chips_kebab.jpg",
+    img: "chips_kebab.jpeg",
     price: 260,
     cat: "Meals",
   },
   {
     id: 42,
     name: "Chips + Egg",
-    img: "https://example.com/chips_egg.jpg",
+    img: "chips_egg.jpeg",
     price: 200,
     cat: "Meals",
   },
   {
     id: 43,
     name: "1/4 Chicken Plain",
-    img: "https://example.com/quarter_chicken_plain.jpg",
+    img: "quarter_chicken_plain.jpeg",
     price: 200,
     cat: "Meals",
   },
   {
     id: 44,
     name: "1/4 Chicken Special",
-    img: "https://example.com/half_chicken_special.jpg",
+    img: "half_chicken_special.jpeg",
     price: 310,
     cat: "Meals",
   },
   {
     id: 45,
     name: "1/4 Chicken + Chips",
-    img: "https://example.com/quarter_chicken_chips.jpg",
+    img: "quarter_chicken_chips.jpeg",
     price: 350,
     cat: "Meals",
   },
   {
     id: 46,
     name: "1/2 Chicken + Chips",
-    img: "https://example.com/half_chicken_chips.jpg",
+    img: "half_chicken_chips.jpeg",
     price: 550,
     cat: "Meals",
   },
   {
     id: 47,
     name: "Full Chicken Plain",
-    img: "https://example.com/full_chicken_plain.jpg",
+    img: "full_chicken_plain.jpeg",
     price: 800,
     cat: "Meals",
   },
   {
     id: 48,
     name: "Full Chicken + Chips",
-    img: "https://example.com/full_chicken_chips.jpg",
+    img: "full_chicken_chips.jpeg",
     price: 950,
     cat: "Meals",
   },
@@ -341,15 +341,15 @@ const displayProducts = (filteredProducts) => {
     .map(
       (product) =>
         `
-         <div class="product">
-            <img
-            src=${product.img}
-            alt=""
-            />
-            <span class="name">${product.name}</span>
-            <span class="priceText">${product.price} Ksh.</span>
-          </div>
-      `
+           <div class="product">
+              <img
+              src=${product.img}
+              alt=""
+              />
+              <span class="name">${product.name}</span>
+              <span class="priceText">${product.price} Ksh.</span>
+            </div>
+        `
     )
     .join("");
 };
@@ -381,8 +381,8 @@ const setCategories = () => {
     .map(
       (cat) =>
         `
-        <span class="cat">${cat}</span>
-      `
+          <span class="cat">${cat}</span>
+        `
     )
     .join("");
 
